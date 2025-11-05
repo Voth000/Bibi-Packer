@@ -26,30 +26,29 @@ Batch Compression for Images (.PNG, .JPG, .GIF, .Webp) and video (every type int
 - **macOS**: Intel (x64) and Apple Silicon (ARM64) - macOS 10.15+
 
 ## 📦 Installation
-
-### Windows Users
-
-1. **Download**: Choose the appropriate Windows installer:
-   - [**Bibi Packer Setup.exe**](./Windows/Bibi%20Packer%20Setup.exe) - Standard installer with Start Menu shortcuts
-
-2. **Install**:
-   - **Installer**: Double-click `Bibi Packer Setup.exe` and follow the wizard
-
-3. **Launch**: Find "Bibi Packer" in your Start Menu or Desktop shortcuts
-
 ### macOS Users
 
 1. **Download**: Choose the appropriate macOS package:
    - [**Bibi Packer-1.4.0.dmg**](./macOS/Bibi%20Packer-1.4.0.dmg) - Intel Macs
    - [**Bibi Packer-1.4.0-arm64.dmg**](./macOS/Bibi%20Packer-1.4.0-arm64.dmg) - Apple Silicon Macs
-   - [**Bibi Packer-1.4.0-mac.zip**](./macOS/Bibi%20Packer-1.4.0-mac.zip) - Intel Macs (ZIP format)
-   - [**Bibi Packer-1.4.0-arm64-mac.zip**](./macOS/Bibi%20Packer-1.4.0-arm64-mac.zip) - Apple Silicon Macs (ZIP format)
 
 2. **Install**:
    - **DMG**: Double-click the DMG file, drag Bibi Packer to Applications folder
    - **ZIP**: Extract and drag the app to Applications folder
 
 3. **Launch**: Find "Bibi Packer" in your Applications folder or Spotlight search
+
+   
+### Windows Users (Not Guarantee Working)
+
+1. **Download**: Choose the appropriate Windows installer:
+   - [**Bibi Packer Setup.exe**](./Windows/Bibi%20Packer%20x64.exe) - Standard installer with Start Menu shortcuts
+
+2. **Install**:
+   - **Installer**: Double-click `Bibi Packer x64.exe` and follow the wizard
+
+3. **Launch**: Find "Bibi Packer" in your Start Menu or Desktop shortcuts
+
 
 ## 🎯 How to Use
 
