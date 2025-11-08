@@ -8,8 +8,6 @@ Batch Compression for Images (.PNG, .JPG, .GIF, .Webp) and video (every type int
 **macOS Apple Silicon**: [Download (.dmg)](./macOS/Bibi%20Packer-1.4.0-arm64.dmg)
 
 
-**Windows** (Not guarantee working): [Download Setup (.exe)](./Windows/Bibi%20Packer%20x64.exe)  
-
 ## 🚀 Features
 
 - **Batch Processing**: Compress entire folders or individual files
